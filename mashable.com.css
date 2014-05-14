@@ -1,0 +1,24 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("mashable.com") {
+  .ad_container,
+  .follow-channel,
+  .sidebar,
+  .shares,
+  .publisher-info,
+  #more-in-channel,
+  #sticky,
+  .microcontent-shares
+  {
+   display: none !important;
+  }
+  #scrollable{
+    padding-top: 0;
+  }
+  .page-container{
+    max-width: 1020px;
+  }
+  .article-content{
+    max-width: 870px !important;
+  }
+}
