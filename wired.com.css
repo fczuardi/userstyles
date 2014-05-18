@@ -1,0 +1,15 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("wired.com") {
+  .advertisement,
+  .ecom-placement,
+  #header-ecom,
+  ins,
+  #follow-wired,
+  #footer-ad,
+  #post-nav,
+  #social-bottom,
+  #social-top{
+    display: none !important;
+  }
+}

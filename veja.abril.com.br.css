@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("veja.abril.com.br") {
+  .sidebar,
+  .curtir-facebook,
+  .ad,
+  .oas-ad,
+  #fb-recomendar-artigo,
+  div#links_google,
+  .suggestions-article,
+  .home-wpo{
+    display: none !important;
+  }
+}

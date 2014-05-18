@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("arstechnica.com") {
+  #article-sidebar,
+  #ad-top{
+    display: none;
+  }
+  article.standalone{
+    float: none;
+    margin: auto;
+  }
+}

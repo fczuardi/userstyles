@@ -1,0 +1,18 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("yahoo.com") {
+
+  .yom-ad,
+  #mediatabs_container,
+  #mediablistmixedlpcatemp,
+  #mediabcarouselmixedlpca_2,
+  #mediasocialfollow_container,
+  #mediabcarouselmixedlpca,
+  .yom-remote,
+  .yom-relatedvideos,
+  footer,
+  header,
+  #richad{
+    display: none;
+  }
+}

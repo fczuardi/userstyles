@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("theguardian.com") {
+
+  #sub-header,
+  #content-actions,
+  #promo,
+  .js-email-upsell,
+  .share-links,
+  #dfp-inline2,
+  #advertiser-container{
+    display: none !important;
+  }
+}
