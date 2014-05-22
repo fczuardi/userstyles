@@ -28,7 +28,8 @@
   .socialreader{
    display: none !important;
   }
-  .page-content{
+  .page-content,
+  .span12{
     margin: auto;
     float: none;
   }
