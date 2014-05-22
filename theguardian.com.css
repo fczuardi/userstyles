@@ -8,6 +8,9 @@
   .js-email-upsell,
   .share-links,
   #dfp-inline2,
+  .top-banner-ad-container,
+  .js-mpu-ad-slot,
+  .right-most-popular,
   #advertiser-container{
     display: none !important;
   }

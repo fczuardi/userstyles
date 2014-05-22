@@ -1,0 +1,35 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("uol.com.br") {
+
+  .barrauol-bg,
+  .ad-top,
+  .advertising,
+  .siga_a_folha,
+  .toolbar,
+  .row.drops,
+  #shopping,
+  .ads-livrariadafolha,
+  #barrauol,
+  .tm-ads,
+  .publicidade,
+  .mod-publieditorial,
+  .com-destaque,
+  .likebox,
+  .followbutton,
+  .modulo-publicidade,
+  #siga,
+  .botoes,
+  .embed-lista.type3,
+  .embed-lista.type5,
+  .embed-lista.type1,
+  #veja-mais-texto,
+  .OUTBRAIN,
+  .socialreader{
+   display: none !important;
+  }
+  .page-content{
+    margin: auto;
+    float: none;
+  }
+}

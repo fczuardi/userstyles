@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("techdirt.com") {
+  #rightcolumn{
+    display: none;
+  }
+  div#maincolumn_wrap{
+    margin-left: 0;
+  }
+  div#maincolumn{
+    margin-left: 0;
+    width: auto !important;
+  }
+}

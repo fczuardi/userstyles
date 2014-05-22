@@ -1,0 +1,11 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("channelfireball.com") {
+
+  .postContent .crystal-catalog-helper-grid-hover img ,
+  .postContent .crystal-catalog-helper-single-hover img{
+    max-width: none !important;
+    max-height: none !important;
+    width: 300px;
+  }
+}
