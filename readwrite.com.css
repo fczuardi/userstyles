@@ -1,0 +1,13 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("readwrite.com") {
+  .before,
+  #social-tools{
+    display: none !important;
+  }
+  body.layout-detail .page-body article.view-full.view-full{
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+}
