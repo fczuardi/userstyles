@@ -1,0 +1,15 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("terra.com.br") {
+  .common-ui-facebook-bottom,
+  .GoogleActiveViewClass,
+  #adPlaceholder,
+  #tgm-bottom,
+  #ppp,
+  #shop_superbanner,
+  .mod-mobile-aside,
+  .trr-content-sharer,
+  #socialCommentBox{
+    display: none !important;
+  }
+}
