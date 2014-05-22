@@ -1,8 +1,9 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("facebook.com") {
-  div[data-xt-vimp],
   #pagelet_ego_pane,
+  div[data-xt-vimp],
+  div[data-ownerid],
   #pagelet_bookmark_nav,
   #timeline_info_review_unit,
   #pagelet_timeline_app_collection_report_95,
@@ -12,5 +13,8 @@
   #pagelet_timeline_app_collection_report_14,
   form[ajaxify="/ajax/profile/tagging/about_unit_approve.php"]{
     display: none;
+  }
+  div[data-ownerid].fbPhotoSnowliftContainer{
+    display: block;
   }
 }
