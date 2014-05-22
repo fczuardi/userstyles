@@ -1,0 +1,9 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("tecmundo.com.br") {
+  .nzn-offcontainer,
+  .nzn-article-toolbar,
+  .nzn-ads{
+    display: none !important;
+  }
+}
