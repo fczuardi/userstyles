@@ -14,6 +14,7 @@
   form[ajaxify="/ajax/profile/tagging/about_unit_approve.php"]{
     display: none;
   }
+  div[data-ownerid].uiLayer,
   div[data-ownerid].fbPhotoSnowliftContainer{
     display: block;
   }
