@@ -5,9 +5,15 @@
   .curtir-facebook,
   .ad,
   .oas-ad,
+  .ads-header,
   #fb-recomendar-artigo,
   div#links_google,
   .suggestions-article,
+  #widgetVeja,
+  #abrAD_rectangle1,
+  #fbSocialReader,
+  .compartilhe,
+  .assinaturas,
   .home-wpo{
     display: none !important;
   }
