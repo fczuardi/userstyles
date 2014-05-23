@@ -11,7 +11,26 @@
   .top-banner-ad-container,
   .js-mpu-ad-slot,
   .right-most-popular,
-  #advertiser-container{
+  #advertiser-container,
+  .outbrain-container,
+  #related{
     display: none !important;
+  }
+  .article #wrapper #box,
+  #article-header h1,
+  #article-header #stand-first,
+  #article-header p{
+   width: 100%;
+  }
+  #article-header #main-article-info{
+   float:none;
+  }
+  #wrapper{
+    background-image: none;
+  }
+  body.article #content{
+    margin: auto;
+    float:none;
+    width: 640px;
   }
 }
