@@ -1,0 +1,17 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("businessinsider.com") {
+  .primary-row .span4,
+  .share-container,
+  .related-links-container,
+  .recommendation,
+  .bottom-recommended,
+  #see-also-links,
+  #taboola-below-main-column{
+    display: none !important;
+  }
+  .primary-row .span8{
+    margin: auto;
+    float: none;
+  }
+}
