@@ -1,0 +1,16 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("brasilpost.com.br") {
+  #threeup_top_wrapper,
+  #float_tracker,
+  .like_box_news > .collection_wrapper_h,
+  .sbm-main-new,
+  #sidebar_right,
+  .side_hold{
+    display: none !important;
+  }
+  #news_content{
+    margin: auto;
+    float: none;
+  }
+}
